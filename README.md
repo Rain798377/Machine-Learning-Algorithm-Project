@@ -2,7 +2,6 @@
 Machine Learning Algorithm Project for Research 1. Make sure to download requirements.txt :3
 
 # Setup
-<br></br>
-Make sure python is installed
-Run install_dependencies.py
+<p>Make sure python is installed</p>
+<p>Run install_dependencies.py</p>
 Run models.
